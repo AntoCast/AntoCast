@@ -1,23 +1,31 @@
-
-# AntoCast 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Hello+there!;" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=120&section=header&text=AntoCast&fontSize=70&fontAlignY=35&fontAlign=50&fontStyle=Rubik&fontColor=ffffff" alt="AntoCast" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+
 - 🎓 **Computer Science Student** at the **University of Salerno**.
 - 📍 Based in **Lauria, Italy**.
-<p align="center" style="border-radius:15px;">
+
+<p align="center">
   <img src="PorcoRosso.gif" alt="Porco Rosso OK" width="400"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=22&pause=1000&color=FF1A1A&center=true&vCenter=true&width=550&lines=%22A+pig+that+doesn't+fly+is+just+a+pig.%22" alt="A pig that doesn't fly is just a pig." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=100&section=footer" width="100%"/>
+</p>
+
 ---
 
 ### 🚀 Tech Stack
 
-**Languages & Frameworks:**
+**Languages:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,7 +33,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Currently learning:** 
+**Currently learning:**
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -40,8 +48,8 @@
 ### 📊 Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntoCast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCast&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntoCast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=99ccff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCast&layout=compact&theme=tokyonight&title_color=99ccff" />
 </p>
 
 ---
