@@ -11,7 +11,7 @@
 - 🎓 **Computer Science Student** at the **University of Salerno**.
 - 📍 Based in **Lauria, Italy**.
 <p align="center">
-  <img src="porco-rosso.gif" alt="Porco Rosso OK" width="400"/>
+  <img src="PorcoRosso.gif" alt="Porco Rosso OK" width="400"/>
 </p>
 ---
 
