@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Computer Science Student** at the **University of Salerno**.
 - 📍 Based in **Lauria, Italy**.
-<p align="center">
+<p align="center" style="border-radius:15px;">
   <img src="PorcoRosso.gif" alt="Porco Rosso OK" width="400"/>
 </p>
 ---
@@ -18,6 +18,7 @@
 ### 🚀 Tech Stack
 
 **Languages & Frameworks:**
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,6 +31,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 **Tools:**
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
